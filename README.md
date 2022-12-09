@@ -1,4 +1,5 @@
 # INFO 442 - Save The Arctic - Ad Hoc Project
+### Project Contributors - Catherine Miao, Jeffrey Qiu, Whitney Zhang, Yifan Zheng, Yujia Si
  The "Save the Arctic" project with additional news features.
  
  The news page is implemented using Tailwind CSS.
@@ -7,7 +8,7 @@
  
  The keyword is Arctic Wildlife, and the news are sort by the most recent date.
  
-## 🛠 Installation & Set Up
+# 🛠 Installation & Set Up
 
 1. Installing dependencies
 
@@ -20,5 +21,3 @@
    ```sh
    npm start
    ```
-
-### Project Contributors - Catherine Miao, Jeffrey Qiu, Whitney Zhang, Yifan Zheng, Yujia Si
