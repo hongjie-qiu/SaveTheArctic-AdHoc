@@ -6,5 +6,19 @@
  The news are rendered by making API calls to the News API, a REST API that returns JSON search results for current and historic news articles published by over 80,000 worldwide sources.
  
  The keyword is Arctic Wildlife, and the news are sort by the most recent date.
+ 
+## 🛠 Installation & Set Up
+
+1. Installing dependencies
+
+   ```sh
+   npm install
+   ```
+
+2. Starting the development server
+
+   ```sh
+   npm start
+   ```
 
 ### Project Contributors - Catherine Miao, Jeffrey Qiu, Whitney Zhang, Yifan Zheng, Yujia Si
