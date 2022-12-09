@@ -1,5 +1,5 @@
 # INFO 442 - Save The Arctic - Ad Hoc Project
- The "Save the Arctic" Project With Additional News Features.
+ The "Save the Arctic" project with additional news features.
  
  The news page is implemented using Tailwind CSS.
  
