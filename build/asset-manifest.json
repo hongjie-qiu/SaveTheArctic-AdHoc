@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68425e22.css",
+    "main.js": "/static/js/main.2da4d9dd.js",
+    "static/media/polar-bear2.jpeg": "/static/media/polar-bear2.7c153474db3618c77441.jpeg",
+    "static/media/arctic-fox.jpeg": "/static/media/arctic-fox.04b53c85139782469140.jpeg",
+    "static/media/walrus.jpg": "/static/media/walrus.0e07d200602284d7cb1f.jpg",
+    "static/media/4.jpg": "/static/media/4.ec0c2b34210850b2e674.jpg",
+    "static/media/adoptionwebsite.jpg": "/static/media/adoptionwebsite.8fd43c56fa3abe273338.jpg",
+    "static/media/6.png": "/static/media/6.b8e72e15c58a997ed75b.png",
+    "static/media/7.jpeg": "/static/media/7.8fa8ee23f68ef794476d.jpeg",
+    "static/media/green.png": "/static/media/green.addf3c3b27e73ea48257.png",
+    "static/media/3.jpg": "/static/media/3.1396869a9100b505f601.jpg",
+    "static/media/5.jpg": "/static/media/5.800ec905d9a6b7c52b5b.jpg",
+    "static/media/8.jpeg": "/static/media/8.b3b327a4e2451da1a7eb.jpeg",
+    "static/media/polar-bear.jpeg": "/static/media/polar-bear.8a7bc3f9092de5aecaf3.jpeg",
+    "static/media/1.jpg": "/static/media/1.d8c4e6896787e26f7b76.jpg",
+    "static/media/bear.png": "/static/media/bear.5c54396bd3ee1242ad32.png",
+    "static/media/2.jpg": "/static/media/2.55b55bdf46cf33e3ac0f.jpg",
+    "static/media/donation.jpeg": "/static/media/donation.41a44d57a12e0cf230ba.jpeg",
+    "static/media/9.jpeg": "/static/media/9.1f6dafc854be70225bcf.jpeg",
+    "static/media/7.jpg": "/static/media/7.a8940fd5fd17aa4b40e4.jpg",
+    "static/media/help-seal.jpeg": "/static/media/help-seal.8b5a14b05215089511bc.jpeg",
+    "static/media/quizCover.jpeg": "/static/media/quizCover.73f114b4c8aba26ffb8e.jpeg",
+    "static/media/polarbearice.jpg": "/static/media/polarbearice.eca8e1518a41f191ad58.jpg",
+    "static/media/banner.jpg": "/static/media/banner.eab82f1f104a5a966db6.jpg",
+    "static/media/littleseal.jpg": "/static/media/littleseal.f968d903c87eb76c2e94.jpg",
+    "index.html": "/index.html",
+    "main.68425e22.css.map": "/static/css/main.68425e22.css.map",
+    "main.2da4d9dd.js.map": "/static/js/main.2da4d9dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68425e22.css",
+    "static/js/main.2da4d9dd.js"
+  ]
+}

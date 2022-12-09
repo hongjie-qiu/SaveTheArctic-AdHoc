@@ -1,0 +1,176 @@
+.banner-container {
+  position: relative;
+}
+
+.banner-container > img {
+  width: 100%;
+  height: 70vh;
+  object-fit: cover;
+  /* opacity: 0.6; */
+  filter: brightness(80%);
+}
+
+.banner-container #callout {
+  position: absolute;
+  z-index: 2;
+  margin: auto;
+  top: 50%;
+  left: 50%;
+  color: white;
+  transform: translate(-50%, -20%);
+  width: 100%;
+  text-align: center;
+}
+.banner-container #callout .banner-slogan{
+  font-size: 50px;
+}
+.banner-container #callout h2{
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+.banner-container #callout .firebase-logout{
+  background-color: #ABEBFF;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+  border: white;
+}
+
+.app__headerLoggedIn {
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.advise--section {
+  /* padding: 24px 32px 20% 32px; */
+  padding-bottom: 50px;
+}
+.second-advise {
+  padding-top: 96px;
+  padding-right: 120px;
+  display: flex;
+  background-color: #88d6fd;
+}
+.third-advise {
+  padding-top: 96px;
+  padding-left: 120px;
+  display: flex;
+  background-color: rgb(176, 226, 238);
+}
+.svg1 {
+  object-fit: cover;
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+}
+.texts {
+  margin-top: 40px;
+  width: 600px;
+  text-align: justify;
+  margin: 28px 0 70px 0;
+  color: #0780a5;
+  font-weight: 700;
+  line-height: 35px;
+}
+.lil {
+  margin-left: 24px;
+  color: #0780a5;
+  font-weight: 800;
+}
+.top-svg {
+  margin-left: 64px;
+  width: 100%;
+}
+.top-svg2 {
+margin-right: 120px;
+margin-left: 8rem;
+margin-top: 1rem;
+height: 360px;
+width: 640px;
+margin-bottom: 5%;
+}
+.section3 {
+  height: 60%;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
+.image1 {
+  height: 70%;
+  width: auto;
+}
+.image3 {
+  height: 80%;
+  width: auto;
+}
+
+/* for phones  */ 
+@media only screen 
+and (max-device-width: 420px) 
+and (max-device-height: 950px) {
+.banner-container > img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: 590px;
+}
+.banner-container #callout {
+  position: absolute;
+  z-index: 2;
+  margin: auto;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+  width: 100%;
+  text-align: center;
+}
+.second-advise {
+  padding-top: 86px;
+  padding-bottom: 86px;
+  display: block;
+  text-align: center;
+  padding-left: 70px;
+  background-color: rgb(201, 249, 248);
+}
+.third-advise {
+  padding-bottom: 96px;
+  display: block;
+  text-align: center;
+  padding-right: 200px;
+  padding-left: 60px;
+  background-color: rgb(176, 226, 238);
+}
+.lil {
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 100px;
+}
+.top-svg {
+  display: block;
+  margin:auto;
+  width: 280px;
+}
+.svg1 {
+  display: block;
+  margin-right: 50px;
+  width: 250px;
+}
+.top-svg2 {
+  margin-left: 20px;
+  width: 250px;
+  height: 123.81px;
+}
+.texts {
+  margin-top: 40px;
+  width: 270px;
+  margin: 28px 0 70px 0;
+}
+
+}

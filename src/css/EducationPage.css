@@ -1,0 +1,136 @@
+.eduPage {
+    background-color: white;
+    color: #0780a5;
+    font-size: 18px;
+    text-shadow: 0 0 1px rgb(209, 206, 206);
+}
+h3 {
+    text-align: center;
+}
+.info {
+    text-align: justify;
+    line-height: 1.8rem;
+    padding: 50px 50px;
+}
+
+.action {
+    text-align: justify;
+    line-height: 1.8rem;
+    padding: 5rem;
+    background-color: white;
+}
+
+#green {
+    float: left;
+    padding: 5px;
+}
+
+.impact {
+    width: 60%;
+    height: 40%;	
+    text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+    background-color: rgb(176, 226, 238);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-radius:25px;
+    text-align: justify;
+    padding: 50px 35px;
+    margin: auto;
+    line-height: 1.8rem;
+}
+
+.quiz-button {    
+    background-color: #ABEBFF;
+    color: white;
+    text-shadow: 2px 2px 3px rgb(166, 159, 159);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 60px;
+    border-radius: 15px;
+    margin: 10px 0px;
+    cursor: pointer;
+    border: white;
+}
+
+.intro {
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 8em;
+    color: white;
+    text-shadow: 2px 2px 3px rgb(166, 159, 159);
+}
+
+#animal{
+    display: inline-block;
+    margin-right: auto;
+    max-width: 45%;
+    height: auto;
+}
+
+.content{
+    display: inline-block;
+    margin-left: auto;
+    width: 50%;
+    padding-left: 10%;
+}
+
+@media (max-width: 1565px) {
+    p {
+        line-height: 2.5rem;
+    }
+}
+
+/* ----------- iPhone 12, 12 Pro ----------- */
+ 
+/* 2532x1170 pixels at 460ppi */ 
+@media only screen 
+and (max-device-width: 420px) 
+and (max-device-height: 950px) {
+    h3,h4 p {
+        text-align: center;
+    }
+    .info {
+        text-align: center;
+        padding: 50px 50px;
+    }
+    
+    .action {
+        display: block;
+        text-align: center;
+        background-color: white;
+    }
+
+    #animal {
+        display: block;
+        width: auto;
+        max-width: 90%;
+        height: auto;
+        padding-left: 15%;
+    }
+
+    #green {
+        display: block;
+    }
+
+    .animalHeader {
+        margin-top: 25px;
+    }
+
+    .content {
+        text-align: left;
+        width: fit-content;
+    }
+
+    .impact {
+        border: none;
+        box-shadow: none;
+        background-color: none;
+        -moz-box-shadow: none;
+        -webkit-box-shadow: none;
+        -o-box-shadow: none;
+        border-radius:0;
+        text-align: justify;
+        width: fit-content;
+        padding: 30px 55px;
+    }
+}

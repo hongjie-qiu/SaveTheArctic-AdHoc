@@ -1,0 +1,76 @@
+[
+    {
+          "id":"1",
+          "name":"Arctic Fox",
+          "scientificName": "Vulpes lagopus",
+          "population":"Several hundred thousand",
+          "photo":"1.jpg",
+          "fact": "The Arctic fox is primarily a carnivore that lives inland, away from the coasts. They are dependent on the presence of smaller animals (most often lemmings) to survive.  Arctic foxes also hunt for sea birds, fish, and other marine life. Smaller rodent populations waver between times of abundance and scarcity, which leaves the Arctic fox vulnerable when these creatures are low in numbers."
+      },
+
+      {
+          "id":"2",
+          "name":"Polar Bear",
+          "scientificName": "Ursus maritimus",
+          "population":"22,000 - 31,000 worldwide",
+          "photo":"2.jpg",
+          "fact": "Climate change, and the loss of sea ice habitat, is the greatest threat to polar bears. The impacts of this change are felt first and worst in the Arctic.Polar bears rely on sea ice to hunt and store energy for the summer and autumn, when food can be scarce. Sea ice now melts earlier in the spring and forms later in the autumn in the bears’ southern range, like Hudson Bay and James Bay in Canada. As the bears spend longer periods without food, their health declines. For every week earlier the ice breaks up in Hudson Bay, bears come ashore roughly 10 kg (22 lbs) lighter and in poorer condition.Unhealthy bears can mean lower reproduction rates, higher cub mortality – and eventually, local extinction. The main causes of death for cubs are lack of food or lack of fat on nursing mothers."
+      },
+      {
+          "id":"3",
+          "name":"Arctic Wolf",
+          "scientificName": "Canis lupus arctos",
+          "population":"About 200,000",
+          "photo":"3.jpg",
+          "fact": "Extreme weather variations in recent years have made it more difficult for populations of musk ox and Arctic hares to find food which has caused a significant decline in their numbers. As a result, this has reduced the traditional food supply of the Arctic wolf."
+      },
+      {
+          "id":"4",
+          "name":"Beluga Whales",
+          "scientificName": "Delphinapterus leucas",
+          "population":"Around 200,000 worldwide",
+          "photo":"4.jpg",
+          "fact": "Warming ocean temperatures are causing unprecedented changes to seasonal ice coverage and thickness. Unpredictable ice patterns affect the ability of beluga whales to migrate using their typical routes and increase the potential for becoming trapped in the ice."
+      },
+      {
+          "id":"5",
+          "name":"Bowhead Whale",
+          "scientificName": "Ursus maritimus",
+          "population":"A minimum of 50,000",
+          "photo":"5.jpg",
+          "fact": "Warming ocean temperatures threaten to alter their habitat along the ice edge, vary their prey distribution, and allow for killer whale populations to expand northward."
+      },
+      {
+          "id":"6",
+          "name":"Arctic Peregrine Falcon",
+          "scientificName": "Falco peregrinus tundrius",
+          "population":"200 - 400 pairs",
+          "photo":"6.png",
+          "fact": "Climate change associated with glaciations is likely responsible for the formation of migration routes of peregrines in the Arctic. Current anthropogenic climate change is predicted to have an impact on the future distribution and migration behaviour of these birds on a much shorter timescale."
+      },
+      {
+          "id":"7",
+          "name":"Narwhal",
+          "scientificName": "Monodon monoceros",
+          "population":"Around 120,000 mature individuals",
+          "photo":"7.jpg",
+          "fact": "Thousands of years of evolution have prepared Arctic species like the polar bear, walrus and narwhal for life on and around the sea ice. Because of climate change, that ice cover has been changing rapidly, in both extent and thickness, and shrinking far too quickly for these species to adapt. A narwhal’s entire life is connected to sea ice, both as a place to feed and a place to take refuge. Slow swimming whales rely on sea ice as a place to hide from predators like killer whales."
+      },
+      {
+          "id":"8",
+          "name":"Caribou",
+          "scientificName": "Rangifer tarandus",
+          "population":"About 5 million",
+          "photo":"8.jpeg",
+          "fact": "As the Arctic warms, vegetation patterns are shifting. Climate change means different plants in the Arctic, more precipitation, and warmer winters that cover plants with ice instead of snow. Reindeer and caribou will need to adapt their range to the availability of food."
+      },
+      {
+          "id":"9",
+          "name":"Walrus",
+          "scientificName": "Odobenus rosmarus",
+          "population":"Atlantic likely 25,000+; Pacific ~200,000; Laptev ~5,000",
+          "photo":"9.jpeg",
+          "fact": "Today the biggest threat facing walruses is the loss of stable sea ice due to climate change. Walruses feed on the ocean floor in the relatively shallow waters of the continental shelf, where the sea ice itself sustains a rich food web. Females will leave their young on the sea ice while they forage, then haul out to nurse their calves. The accelerating retreat of sea ice puts the newborns’ safe haven farther away from the mothers’ food—meaning longer, more exhausting swims for the mothers, and more time alone for the calves. Walrus are also seeking haul-outs on beaches, instead of ice, which puts them in closer proximity to sources of human disturbance. Walrus' are known to stampede when disturbed. These stampedes can result in mortality. "
+      }
+  
+]

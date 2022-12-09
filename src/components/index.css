@@ -1,0 +1,22 @@
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.newsPage {
+  background: rgb(243, 240, 240);
+}
+
+.news{
+  text-align: left;
+  color: #1c87bc;
+}
+
+.news .cards {
+  background-color: white;
+}
+
+.news .cards a {
+  color: #0b6d9f;
+}
