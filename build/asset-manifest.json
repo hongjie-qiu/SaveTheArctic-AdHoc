@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.68425e22.css",
-    "main.js": "/static/js/main.2da4d9dd.js",
+    "main.css": "/static/css/main.af54d214.css",
+    "main.js": "/static/js/main.9b150956.js",
     "static/media/polar-bear2.jpeg": "/static/media/polar-bear2.7c153474db3618c77441.jpeg",
     "static/media/arctic-fox.jpeg": "/static/media/arctic-fox.04b53c85139782469140.jpeg",
     "static/media/walrus.jpg": "/static/media/walrus.0e07d200602284d7cb1f.jpg",
@@ -26,11 +26,11 @@
     "static/media/banner.jpg": "/static/media/banner.eab82f1f104a5a966db6.jpg",
     "static/media/littleseal.jpg": "/static/media/littleseal.f968d903c87eb76c2e94.jpg",
     "index.html": "/index.html",
-    "main.68425e22.css.map": "/static/css/main.68425e22.css.map",
-    "main.2da4d9dd.js.map": "/static/js/main.2da4d9dd.js.map"
+    "main.af54d214.css.map": "/static/css/main.af54d214.css.map",
+    "main.9b150956.js.map": "/static/js/main.9b150956.js.map"
   },
   "entrypoints": [
-    "static/css/main.68425e22.css",
-    "static/js/main.2da4d9dd.js"
+    "static/css/main.af54d214.css",
+    "static/js/main.9b150956.js"
   ]
 }

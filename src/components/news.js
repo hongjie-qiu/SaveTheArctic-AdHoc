@@ -1,5 +1,6 @@
 import React from "react";
-import "./index.css";
+import "./news.css";
+import newsData from './newsData.json';
 
 class News extends React.Component {
     constructor(props) {
@@ -8,9 +9,11 @@ class News extends React.Component {
     }
     async componentDidMount() {
       let res = await fetch(
+        //"http://api.mediastack.com/v1/news?access_key=9efda4972ee50a5e0886643a98ae57a5"
         `https://newsapi.org/v2/everything?q=arctic+and+wildlife&sortBy=publishedAt&apiKey=2b9f4fcd5b4f41f682de8debe01988ce`
       );
-      let data = await res.json();
+      //let data = await res.json();
+      let data = newsData;
       console.log(data, typeof data.articles, data.articles, typeof ar);
       let article = data.articles.map((p) => {
         return (
